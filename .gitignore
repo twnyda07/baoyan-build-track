@@ -1,0 +1,3 @@
+# 這個 repo 只放加密後的 index.html。任何明文都不可以進來。
+*.json
+!package.json
